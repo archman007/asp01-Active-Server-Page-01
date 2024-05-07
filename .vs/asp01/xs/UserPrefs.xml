@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2E0B697C-01EF-4AFF-8524-7C3C4180DDDA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Build Output 8:15 PM 2024-05-06.binlog">
+    <Files>
+      <File FileName="Build Output 8:15 PM 2024-05-06.binlog" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asp01" expanded="True">
+            <Node name="asp01" expanded="True">
+              <Node name="Pages" expanded="True" selected="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.asp01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
